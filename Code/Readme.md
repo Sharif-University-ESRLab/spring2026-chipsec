@@ -1,20 +1,9 @@
-
 # Code
 
-Please upload your final codes to this folder.
+This directory contains a standalone CHIPSEC source code.
 
-If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate folder for each one.
+The modules developed in this project are located at
+[chipsec/chipsec/modules/sut](./chipsec/chipsec/modules/sut/).
 
-
-Please edit this *readme* file and give brief description of each part.
-
-**Example:**
-
-## Server
-Server implemeted using `Django`.
-
-## Client
-Pure `HTML`, `CSS`& `JS` is used for user interface.
-
-## ESP32
-ESP32 is prgorammed using `C++` in `Arduino IDE`. 
+The description on how to setup OVMF test environment is located at
+[chipsec/chipsec/CVE-2023-48733/README.md](./Code/chipsec/CVE-2023-48733/README.md).
